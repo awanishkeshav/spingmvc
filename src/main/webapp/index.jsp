@@ -7,7 +7,9 @@
 
 <form action="userName" method="get">
 	<br><br>Enter Your Name : <input type="text" name="name">
-	<input type="submit" value="Submit">
+	<--input type="submit" value="Submit"-->
+	
+	<input type="ButtonWithOnClick" value="Submit">
 </form>
 </body>
 </html>
